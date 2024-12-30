@@ -1,0 +1,17 @@
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\posConnector.exe
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\posConnector.deps.json
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\posConnector.runtimeconfig.json
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\posConnector.dll
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\posConnector.pdb
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.AssemblyInfoInputs.cache
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.AssemblyInfo.cs
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.csproj.CoreCompileInputs.cache
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.dll
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\refint\posConnector.dll
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.pdb
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.genruntimeconfig.cache
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\ref\posConnector.dll
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConnector.csproj.AssemblyReference.cache
+C:\Users\exezt-\RiderProjects\posConnector\bin\Debug\net9.0-windows\InTheHand.Net.Personal.dll
+C:\Users\exezt-\RiderProjects\posConnector\obj\Debug\net9.0-windows\posConne.7DCAF80A.Up2Date
